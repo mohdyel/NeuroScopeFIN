@@ -1,0 +1,2 @@
+C:/Users/modou/Desktop/UNIVERSTY 2025 second  semester/gp2/flutter/ZZZfinal/best_flutter_ui_templates/android/app/.cxx/Debug/y9j6t2i3/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/modou/Desktop/UNIVERSTY 2025 second  semester/gp2/flutter/ZZZfinal/best_flutter_ui_templates/android/app/.cxx/Debug/y9j6t2i3/armeabi-v7a/CMakeFiles/rebuild_cache.dir

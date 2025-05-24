@@ -1,0 +1,1 @@
+Based on our evaluation, PHP proved to be the most effective solution for storing and retrieving data. Since this project is still in its prototype phase, we’ve implemented basic security measures that align with its low-risk requirements.

@@ -2,9 +2,9 @@ After completing the project, we transformed raw EEG recordings into time-freque
 
 Key achievements:
 
-- Spectrogram conversion:** Automated pipeline converting continuous EEG segments into standardized grayscale images.
-- Model development:** Trained and compared multiple CNN variants, selecting the best-performing architecture based on validation accuracy and F1-score.
-- Performance gains:** Improved overall classification accuracy by several percentage points on held-out data, with robust detection across all six classes.
+- Spectrogram conversion: Automated pipeline converting continuous EEG segments into standardized grayscale images.
+- Model development: Trained and compared multiple CNN variants, selecting the best-performing architecture based on validation accuracy and F1-score.
+- Performance gains: Improved overall classification accuracy by several percentage points on held-out data, with robust detection across all six classes.
 - Scalability and reproducibility: Experiments run in Google Colab and on high-end GPUs (RTX 3090/4090), with code and hyperparameters version-controlled for easy replication.
 
 Next steps:
